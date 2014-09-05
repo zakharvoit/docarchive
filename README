@@ -6,4 +6,4 @@ gtk+2.0, webkit-1.0
 Installation:
 1) Change default directory in config.h.
 2) run "make"
-3) add executable file in PATH
+3) add executable file to PATH
